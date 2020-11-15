@@ -10,7 +10,7 @@ Datiset (aka Date-time-set) is a GUI interface for date and time configuration f
 **Command**  
 python3 datiset.py  
 
+![Screenshot](datiset.JPG)  
+
 **Credits**  
 --+Antu Varghese+--
-
-![Screenshot](datiset.JPG)
